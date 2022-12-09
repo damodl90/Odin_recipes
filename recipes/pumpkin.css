@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(218, 181, 134); font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tittle {
+    background-color: rgb(228, 159, 31); font-size: 32px; font-weight: 800; text-align: center;
+}
+
+img {
+    height: auto; width: 500px; display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text {
+    font-size: 22px;
+}
+
+
+ul, ol {
+    background-color: rgb(228, 159, 31);
+}
+
+.list {
+    font-size: 18px; font-weight: bold; 
+}
+
+.subtittle {
+    font-size: 25px;
+}
